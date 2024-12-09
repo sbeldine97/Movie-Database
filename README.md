@@ -1,6 +1,5 @@
-Project Overview
+##Project Overview
 This project involves creating and managing a relational database for a movie database. It focuses on designing the database schema, populating it with sample data, and performing SQL queries to derive valuable insights about movies, genres, directors, and user ratings.
-
 Objectives
 Create a relational database schema for storing and managing movie-related data.
 Populate the database with sample data, including movies, genres, directors, users, and ratings.
